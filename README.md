@@ -24,6 +24,7 @@ I am an offensive security researcher focused on adversarial simulation, autonom
 ---
 
 ### 📬 Connect With Me
+* **X:** (https://x.com/zoe_katchy)
 * **LinkedIn:** (https://www.linkedin.com/in/zoemichaelkatchy/)
 
 <!--
