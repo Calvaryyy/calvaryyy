@@ -1,4 +1,5 @@
 ## Hi there 👋
+My name is Zoe Michael Katchy
 I am an offensive security researcher focused on adversarial simulation, autonomous tool development, and red teaming I build modular, automated frameworks to bridge the gap between complex vulnerability research and practical defensive engineering.
 
 ---
