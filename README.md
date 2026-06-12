@@ -24,7 +24,7 @@ I am an offensive security researcher focused on adversarial simulation, autonom
 ---
 
 ### 📬 Connect With Me
-* **LinkedIn:** [[linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)](https://www.linkedin.com/in/zoemichaelkatchy/)
+* **LinkedIn:** (https://www.linkedin.com/in/zoemichaelkatchy/)
 
 <!--
 **Calvaryyy/calvaryyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
