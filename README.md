@@ -18,6 +18,8 @@ I am an offensive security researcher focused on adversarial simulation, autonom
 
 ### 🔬 Notable Projects & Research
 * **[LANCE](https://github.com/Calvaryyy)** – An autonomous, modular penetration testing framework chaining multi-engine recon with AI synthesis.
+* **[Palisade](https://github.com/Calvaryyy/Palisade)** - An Open-source AI Prompt Firewall & Telemetry API
+* **[Auxular](https://github.com/Calvaryyy/auxular)** - A Passive IoT / ICS / IIoT Reconnaissance Engine 
 * **[Outpost](https://github.com/Calvaryyy/Outpost)** – An independent Active Directory home lab environment built for simulating advanced attack paths.
 * There are loads more to come, stay tuned :)
 
